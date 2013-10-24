@@ -1,0 +1,4 @@
+*.swp
+release_obj/
+debug_obj/
+
